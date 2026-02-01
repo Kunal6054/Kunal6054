@@ -4,12 +4,19 @@ CS Undergrad | Full Stack Developer | DevOps Enthusiast | Based in India
 Email Me 👉 ✉️ kunalnirmalkar345@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I'm currently working on: CivicConnect (Civic Issue Reporting Platform) & InternPro.
+
 🌱 I'm currently learning: Advanced React Patterns & Docker
+
 👯 I’m looking to collaborate on: Hackathon projects (SIH) & Social Impact Tech
+
 🤔 I'm looking for help with: Advanced DevOps pipelines and Cloud deployment.
+
 💬 Ask me about: MERN Stack, React, and Full Stack Development.
+
 📫 How to reach me: Enter your email here
+
 ⚡ Fun fact: I love story-driven games like RDR2 and solving advanced math problems.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_kunal_nirmalkar_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-nirmalkar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalnirmlkar345@gmail.com) 
