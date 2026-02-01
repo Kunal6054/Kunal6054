@@ -3,7 +3,7 @@ CS Undergrad | Full Stack Developer | DevOps Enthusiast | Based in India
 
 Email Me 👉 ✉️ kunalnirmalkar345@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I'm currently working on: CivicConnect (Civic Issue Reporting Platform) & InternPro.
+🔭 I'm currently working on: CivicConnect (Civic Issue Reporting Platform) & StudyShare.
 
 🌱 I'm currently learning: Advanced React Patterns & Docker
 
